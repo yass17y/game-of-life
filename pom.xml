@@ -276,11 +276,11 @@
 </repository>
 
 
-<repository>
+<snapshotRepository>
 <id>snapshots</id>
 <name>Snapshots</name>
 <url>http://46.101.150.177:8081/nexus/content/repositories/snapshots</url>
-</repository>
+</snapshotRepository>
 
 </distributionManagement>
 
