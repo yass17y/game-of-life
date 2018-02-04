@@ -275,6 +275,12 @@
 <url>http://46.101.150.177:8081/nexus/content/repositories/releases/</url>
 </repository>
 
+<repository>
+<id>nexusRepo</id>
+<name>nexusRepo</name>
+<url>http://46.101.150.177:8081/nexus/content/repositories/releases/</url>
+</repository>
+
 <snapshotRepository>
     <id>snapshots</id>
     <url>http://46.101.150.177:8081/nexus/content/repositories/snapshots/</url>
